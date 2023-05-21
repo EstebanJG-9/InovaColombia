@@ -1,12 +1,11 @@
 # Innova-Colombia
-Se realizo una aplicacion  para controlar el ingreso de los empleados, por el area de recuersos humanos , brindadoles la opcion de iniciar sesion y asi controlar el registro de los empelados nuevo como viejos .
+An application was made to control the entry of employees, through the human resources area, giving them the option to log in and thus control the registration of new and old employees.
 
-Utilidades 
 
-# 1: Lenguaje java
+
+# 1:  java
 # 2: IDEN Netbeans
 # 3: SQL SERVER 
 
-# Link Youtube :https://www.youtube.com/watch?v=kmQlOVe92ag
-# Link Github : https://github.com/JuanEstebanGPX/Innova-Colombia
+
 
